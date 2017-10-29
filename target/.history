@@ -15,3 +15,4 @@ runMain SimpleSearch
 runMain RegexSearch
 runMain SimpleSearch
 runMain RegexSearch
+runMain PartialSumDFS
