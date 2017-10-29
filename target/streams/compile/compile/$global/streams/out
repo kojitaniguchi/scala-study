@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/taniguchi0511/Desktop/scala-study/Factorization.scala:12:7: not found: value FactorizationRec[0m
-[0m[[0m[31merror[0m] [0m[0m      FactorizationRec(num / divisor, divisor, nextAcc)[0m
-[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/taniguchi0511/Desktop/scala-study/RegexSearch.scala:4:29: value r is not a member of Seq[Char][0m
+[0m[[0m[31merror[0m] [0m[0m  val matchIndexs = pattern.r.findAllIn(text).matchData.map(_.start).toList[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

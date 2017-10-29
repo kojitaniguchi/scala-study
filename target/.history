@@ -4,3 +4,14 @@ console
 runMain Factorical
 runMain Factorial
 runMain Factorization
+runMain SimpleSearch
+sbt compile
+compile
+runMain SimpleSearch
+exit
+runMain SimpleSearch
+exit
+runMain SimpleSearch
+runMain RegexSearch
+runMain SimpleSearch
+runMain RegexSearch
